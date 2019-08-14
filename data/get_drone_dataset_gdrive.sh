@@ -7,8 +7,7 @@
 
 # Set fileid and filename
 filename="drone-vs-plane.zip"
-fileid="1JJonLvVHFyUQc-Iiyw08fTXlpBDXPQeL"  # drone-vs-plane.zip
-
+fileid="1PDLwXfC4-cb45aYvlGr3orHSlbqXxAr2"  # drone-vs-plane.zip
 
 # Download from Google Drive, accepting presented query
 curl -c ./cookie -s -L "https://drive.google.com/uc?export=download&id=${fileid}" > /dev/null
