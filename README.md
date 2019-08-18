@@ -2,6 +2,8 @@
 
 This is my adjustment of the code base in https://github.com/ultralytics/yolov3 for using YOLOv3 in PyTorch. This model has been customized to discriminate between drones and airplanes, with future plans for including birds and other categories that may assist monitoring technologies in airports and defense applications.
 
+The existing dataset must be enriched for the drone category to encompass more numerous settings and machine models.
+
 
 This directory contains PyTorch YOLOv3 software and an iOS App developed by Ultralytics LLC, and **is freely available for redistribution under the GPL-3.0 license**. For more information please visit https://www.ultralytics.com.
 
